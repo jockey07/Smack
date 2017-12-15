@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/jockey/Desktop/Xcode work/Smack/Smack/Supporting Files/Smack-Bridging-Header.h">
+   </FileRef>
+   <FileRef
       location = "group:Smack.xcodeproj">
    </FileRef>
    <FileRef
